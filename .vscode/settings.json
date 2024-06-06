@@ -1,0 +1,6 @@
+{
+  "sonarlint.connectedMode.project": {
+    "connectionId": "cdao",
+    "projectKey": "sonarpark_sonar_test"
+  }
+}
